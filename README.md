@@ -1,1 +1,1 @@
-# COMP-590-790-DeepLearning-Assignment
+# COMP 590/790 Deep Learning Assignments
