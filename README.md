@@ -1,1 +1,3 @@
 # COMP 590/790 Deep Learning Assignments
+
+Assignments from UNC 590/790 Deep Learning course taught by Prof. Colin Raffel. This class provides a practical introduction to deep learning, including theoretical motivations and how to implement it in practice. As part of the course we will cover multilayer perceptrons, backpropagation, automatic differentiation, and stochastic gradient descent. Moreover, we introduce convolutional networks for image processing, starting from the simple LeNet to more recent architectures such as ResNet for highly accurate models. Secondly, we discuss sequence models and recurrent networks, such as LSTMs, GRU, and the attention mechanism.
